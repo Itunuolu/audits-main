@@ -30,7 +30,8 @@ For collabs or security audits, reach out on X [@IamSalted](https://x.com/iamsal
 
 
 ## Bug Bounty
-### 2025
+| Contest | Category | Language | Report |
+| -------- | ------- |  -------- | -------- |
 | [Scallop](https://dashboard.hackenproof.com/user/reports/SCALLOPP-79) | Money Market |  Move |[source](contests/scallop.md) |
 | [NadoSC](https://dashboard.hackenproof.com/user/reports/NADOSC-122) | Orderbook DEX |  Solidity |[source](contests/nadosc.md) |
 | [AstroSSC](https://dashboard.hackenproof.com/user/reports/ASTROSSC-26) | Ultimate Onchain Structured Fund |  Move |[source](contests/astrossc.md) |
