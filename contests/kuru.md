@@ -1,5 +1,5 @@
-## Kinetiq
-[Contest Details](https://code4rena.com/audits/2025-04-kinetiq)
+## Kuru
+[Contest Details](https://cantina.xyz/code/cdce21ba-b787-4df4-9c56-b31d085388e7/overview)
 
 ### [High] Flip Order Maker Rebate Accounting Black Hole
 
